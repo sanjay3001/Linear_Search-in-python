@@ -1,2 +1,2 @@
-# Linear_Search-in-python
+# Search-in-python
 Data Structure - Linear Search 
